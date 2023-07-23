@@ -1,0 +1,4 @@
+baseURL = 'https://xx-buy.netlify.app'
+languageCode = 'en-us'
+title = 'buy'
+theme = "hugo-theme-minos"
